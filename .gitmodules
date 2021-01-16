@@ -3,3 +3,39 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blorr"]
+	path = blorr
+	url = https://github.com/rsquaredacademy/blorr
+	shallow = true
+[submodule "descriptr"]
+	path = descriptr
+	url = https://github.com/rsquaredacademy/descriptr
+	shallow = true
+[submodule "inferr"]
+	path = inferr
+	url = https://github.com/rsquaredacademy/inferr
+	shallow = true
+[submodule "nse2r"]
+	path = nse2r
+	url = https://github.com/rsquaredacademy/nse2r
+	shallow = true
+[submodule "olsrr"]
+	path = olsrr
+	url = https://github.com/rsquaredacademy/olsrr
+	shallow = true
+[submodule "rbin"]
+	path = rbin
+	url = https://github.com/rsquaredacademy/rbin
+	shallow = true
+[submodule "rfm"]
+	path = rfm
+	url = https://github.com/rsquaredacademy/rfm
+	shallow = true
+[submodule "vistributions"]
+	path = vistributions
+	url = https://github.com/rsquaredacademy/vistributions
+	shallow = true
+[submodule "xplorerr"]
+	path = xplorerr
+	url = https://github.com/rsquaredacademy/xplorerr
+	shallow = true
