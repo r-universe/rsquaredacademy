@@ -48,3 +48,8 @@
 	url = https://github.com/rsquaredacademy/xplorerr
 	shallow = true
 	registered = true
+[submodule "yahoofinancer"]
+	path = yahoofinancer
+	url = https://github.com/rsquaredacademy/yahoofinancer
+	shallow = true
+	registered = true
