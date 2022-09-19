@@ -8,6 +8,11 @@
 	url = https://github.com/rsquaredacademy/blorr
 	shallow = true
 	registered = true
+[submodule "descriptr"]
+	path = descriptr
+	url = https://github.com/rsquaredacademy/descriptr
+	shallow = true
+	registered = true
 [submodule "inferr"]
 	path = inferr
 	url = https://github.com/rsquaredacademy/inferr

@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "descriptr",
+    "oncran": true
+  },
+  {
     "package": "inferr",
     "oncran": true
   },
