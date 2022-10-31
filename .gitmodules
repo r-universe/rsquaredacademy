@@ -18,11 +18,6 @@
 	url = https://github.com/rsquaredacademy/inferr
 	shallow = true
 	registered = true
-[submodule "nse2r"]
-	path = nse2r
-	url = https://github.com/rsquaredacademy/nse2r
-	shallow = true
-	registered = true
 [submodule "olsrr"]
 	path = olsrr
 	url = https://github.com/rsquaredacademy/olsrr
