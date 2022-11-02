@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "nse2r",
+    "oncran": true
+  },
+  {
     "package": "olsrr",
     "oncran": true
   },
