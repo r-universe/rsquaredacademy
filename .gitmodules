@@ -3,9 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blorr"]
+	path = blorr
+	url = https://github.com/rsquaredacademy/blorr
+	shallow = true
+	registered = true
 [submodule "descriptr"]
 	path = descriptr
 	url = https://github.com/rsquaredacademy/descriptr
+	shallow = true
+	registered = true
+[submodule "inferr"]
+	path = inferr
+	url = https://github.com/rsquaredacademy/inferr
+	shallow = true
+	registered = true
+[submodule "nse2r"]
+	path = nse2r
+	url = https://github.com/rsquaredacademy/nse2r
 	shallow = true
 	registered = true
 [submodule "olsrr"]
@@ -13,29 +28,19 @@
 	url = https://github.com/rsquaredacademy/olsrr
 	shallow = true
 	registered = true
-[submodule "rfm"]
-	path = rfm
-	url = https://github.com/rsquaredacademy/rfm
-	shallow = true
-	registered = true
-[submodule "blorr"]
-	path = blorr
-	url = https://github.com/rsquaredacademy/blorr
-	shallow = true
-	registered = true
 [submodule "rbin"]
 	path = rbin
 	url = https://github.com/rsquaredacademy/rbin
 	shallow = true
 	registered = true
+[submodule "rfm"]
+	path = rfm
+	url = https://github.com/rsquaredacademy/rfm
+	shallow = true
+	registered = true
 [submodule "vistributions"]
 	path = vistributions
 	url = https://github.com/rsquaredacademy/vistributions
-	shallow = true
-	registered = true
-[submodule "nse2r"]
-	path = nse2r
-	url = https://github.com/rsquaredacademy/nse2r
 	shallow = true
 	registered = true
 [submodule "xplorerr"]
@@ -46,10 +51,5 @@
 [submodule "yahoofinancer"]
 	path = yahoofinancer
 	url = https://github.com/rsquaredacademy/yahoofinancer
-	shallow = true
-	registered = true
-[submodule "inferr"]
-	path = inferr
-	url = https://github.com/rsquaredacademy/inferr
 	shallow = true
 	registered = true
