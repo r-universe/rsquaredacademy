@@ -38,6 +38,11 @@
 	url = https://github.com/rsquaredacademy/rfm
 	shallow = true
 	registered = true
+[submodule "standby"]
+	path = standby
+	url = https://github.com/rsquaredacademy/standby
+	shallow = true
+	registered = true
 [submodule "vistributions"]
 	path = vistributions
 	url = https://github.com/rsquaredacademy/vistributions
