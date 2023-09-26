@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["blorr", "buzz", "descriptr", "inferr", "nse2r", "olsrr", "rbin", "rfm", "standby", "vistributions"]
+  "repositories": ["descriptr", "inferr", "olsrr", "blorr", "rfm", "rbin", "vistributions", "nse2r", "standby", "buzz"]
 }
